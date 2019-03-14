@@ -8,4 +8,4 @@ https://www.w3schools.com/css/css3_mediaqueries.asp
 https://www.w3schools.com/css/css_rwd_viewport.asp
 https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 https://css-tricks.com/logic-in-media-queries/
-Həftə sonu verdiyim 3-ci template-in (https://bootstrapmade.com/demo/themes/Alstar/) aşağıdakı hissələrini responsiv şəkildə yazın:
+
